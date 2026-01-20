@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+
+# Build outputs
+.next/
+__pycache__/
+*.pyc
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Local data
+Backend/clips/
+Backend/uploads/
+*.mp4
+*.mp3
+
+# Vercel
+.vercel/
