@@ -61,4 +61,5 @@ Built for Videotto Engineering Internship Exercise.
 
 ## Deployment URLs
 
-- **Frontend**: [https://frontend-ah7z9im8x-wazirmohamed123-gmailcoms-projects.vercel.app](https://frontend-silk-omega-0ttd5bcn9v.vercel.app/)
+- **Frontend**: https://frontend-silk-omega-0ttd5bcn9v.vercel.app
+- **API**: https://xp4p0z1xbj.execute-api.ap-southeast-1.amazonaws.com
