@@ -58,3 +58,8 @@ npm install && npm run dev
 ---
 
 Built for Videotto Engineering Internship Exercise.
+
+## Deployment URLs
+
+- **Frontend**: https://frontend-ah7z9im8x-wazirmohamed123-gmailcoms-projects.vercel.app
+- **API**: https://xp4p0z1xbj.execute-api.ap-southeast-1.amazonaws.com
